@@ -1,4 +1,4 @@
-# 🏦 Loan Application Status Prediction
+# Loan Application Status Prediction
 
 Predicting whether a home-loan application will be approved or rejected, based on applicant demographics, income, and credit history.
 
