@@ -77,10 +77,6 @@ jupyter
 - Combine with external credit-bureau scores if available.
 - Collect more applications to reduce estimate variance.
 
-## Data Source & License
+## Data Source
 
-Dataset from Analytics Vidhya's "Loan Prediction" practice problem, used here for educational purposes.
-
-## License
-
-MIT
+Dataset from Analytics Vidhya's "Loan Prediction" practice problem.
